@@ -6,4 +6,20 @@ body{
     width:80%;
     background-color: #a2a8d3;
     margin:auto;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.header1{
+    background-color: #38598b;
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+}
+.list1{
+    font-size: 25px;
+    list-style: none;
+    text-align: center;
+}
+li{
+    color: #113f67;
 }
