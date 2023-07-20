@@ -1,0 +1,23 @@
+body{
+    background-color: #e7eaf6;
+}
+
+.center{
+background-color: #a2a8d3;
+width: 60%;
+margin:auto;
+border-top-left-radius:  30px ;
+border-top-right-radius: 30px;
+}
+h1{
+    background-color: #38598b;
+    padding: 20px;
+    text-align: center;
+    border-top-left-radius:  30px ;
+    border-top-right-radius: 30px;
+}
+.size{
+    height: 200px;
+    width: 60%;
+    margin-left: 115px;
+}
